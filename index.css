@@ -5,9 +5,9 @@
 
 
 
-.container {
+.input-container {
     margin-top: 20px;
-    width: 70%;
+    width: 60%;
     margin: auto;
     background: lightseagreen;
     display: flex;
