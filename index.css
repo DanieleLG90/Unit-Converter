@@ -4,18 +4,18 @@
 }
 
 
-
-.input-container {
+.main-container{
     margin-top: 20px;
-    width: 60%;
+    width: 55%;
     margin: auto;
-    background: lightseagreen;
-    display: flex;
-    flex-direction: column;
     border: 4px solid whitesmoke;
     border-radius: 15px;
     box-shadow: 0 0 35px gray;
-    
+}
+.input-container {
+    background: lightseagreen;
+    display: flex;
+    flex-direction: column;
 }
 .title {
     color: whitesmoke;
@@ -45,7 +45,7 @@
      border-radius: 4px;
 }
 .value-container{
-    width: 50%;
+    
     margin: auto;
     background: lightgray;
     display: flex;
@@ -53,7 +53,7 @@
     text-align: center;
 }
 .length-conversion{
-    margin: 10px 0px;
+    margin: 10px 20px;
     background: lightyellow;
     padding: 15px 50px;
 }
